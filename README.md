@@ -1,7 +1,7 @@
 #  📝 Check Image Generator
 
 ## 📌 Introduction: 
-Welcome to the Check Image Generator, a versatile desktop application designed with the magic of Python and PyQt5! Whether you're simulating financial software, creating educational content, or just exploring. data visualization, this tool seamlessly generates fictional check images, storing and organizing them for your convenience.
+Welcome to the Check Image Generator, a versatile desktop application designed with the magic of Python and PyQt5! Whether you're simulating financial software, creating educational content, or just exploring data visualization, this tool seamlessly generates fictional check images, storing and organizing them for your convenience.
 
 ## 🌠 Features:
 
